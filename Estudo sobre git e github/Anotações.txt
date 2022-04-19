@@ -1,0 +1,7 @@
+Enviando atualizações locais para o github:
+
+1 git add . (adiciona todos os arquivos ao controle de versão local)
+
+2 git commit -m "Inclusão das anotações do estudo sobre git/github" (cria commit local)
+
+3 git push origin main (envia todos os commits locais para a núvem)
