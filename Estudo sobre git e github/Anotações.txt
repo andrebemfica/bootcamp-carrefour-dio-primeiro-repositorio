@@ -5,3 +5,7 @@ Enviando atualizações locais para o github:
 2 git commit -m "Inclusão das anotações do estudo sobre git/github" (cria commit local)
 
 3 git push origin main (envia todos os commits locais para a núvem)
+
+obs: os comandos no git precisam ser realizados na pasta principal do repositório
+
+20/04/22 - teste
